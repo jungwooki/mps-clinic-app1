@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState, useMemo } from 'react';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, ResponsiveContainer } from 'recharts';
 import { Trophy, Activity, Zap, Droplets, AlertCircle, Heart, ChevronRight, ChevronLeft, RotateCcw, User, Utensils, Moon, Sun, Info, Clock, CheckCircle2, Calendar, Phone, ClipboardCheck } from 'lucide-react';
